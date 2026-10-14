@@ -1,0 +1,6 @@
+{
+  "name": "ProgressOS — Life Operating System",
+  "description": "Your personal life operating system for managing daily tasks, habits, custom categories, long-term goals, and AI-powered progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
